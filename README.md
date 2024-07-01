@@ -1,8 +1,8 @@
-<h2 align="left">Hello👋 My name is Sanskriti</h2>
+<h1 align="center">Hello👋 My name is Sanskriti</h1>
 
 ###
 
-<p align="left">Full stack front-end developer | GenAi enthusiast | GSSoC'24 contributor | VIT Vellore'26</p>
+<h2 align="center">Full stack front-end developer | GenAi enthusiast | GSSoC'24 contributor</h2>
 
 ###
 
@@ -81,6 +81,9 @@
   </a>
   <a href="https://www.hackerrank.com/profile/sanskritilal_14?" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+   <a href="https://leetcode.com/u/sanskritilal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo"  />
   </a>
 </div>
 
