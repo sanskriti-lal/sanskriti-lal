@@ -88,6 +88,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sanskriti-lal/sanskriti-lal/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
