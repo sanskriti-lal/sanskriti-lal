@@ -7,7 +7,7 @@
 
 # 📊 GitHub Stats:
 <br></br>
-![](https://github-readme-stats.vercel.app/api?username=sanskriti-lal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=sanskriti-lal&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=sanskriti-lal&theme=dark&hide_border=false&include_all_commits=false&height="150"&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=sanskriti-lal&theme=dark&hide_border=false&border_radius=5height="150")
 
 
 <br></br>
