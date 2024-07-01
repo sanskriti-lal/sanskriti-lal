@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋 My name is Sanskriti</h1>
+<h1 align="center">Sanskriti Lal</h1>
 
 ###
 
