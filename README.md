@@ -2,17 +2,19 @@
 
 ###
 
-<h2 align="center">Full stack front-end developer | GenAi enthusiast | GSSoC'24 contributor</h2>
+<h3 align="center">Full stack front-end developer | GenAi enthusiast | GSSoC'24 contributor</h3>
+<br></br>
+
+# 📊 GitHub Stats:
+<br></br>
+![](https://github-readme-stats.vercel.app/api?username=sanskriti-lal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=sanskriti-lal&theme=dark&hide_border=false)
+
+
+<br></br>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskriti-lal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Sanskriti's%20GitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=sanskriti-lal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -66,25 +68,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
 </div>
+<br></br>
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/sanskriti-lal-b17309248" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/sanskritilal_14?" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-   <a href="https://leetcode.com/u/sanskritilal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo"  />
-  </a>
-  <a href="sanskriti1lal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="http://discordapp.com/users/839491819125342269" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sanskriti-lal-b17309248) [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16?logo=LeetCode&logoColor=white)](https://leetcode.com/u/sanskritilal/) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/sanskritilal_14?) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Sanskriti-Lal) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/http://discordapp.com/users/839491819125342269)
 
