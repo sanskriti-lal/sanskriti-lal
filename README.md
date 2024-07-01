@@ -5,7 +5,7 @@
 <h3 align="center">Full stack front-end developer | GenAi enthusiast | GSSoC'24 contributor</h3>
 <br></br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <br></br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskriti-lal&theme=dark&hide_border=false&include_all_commits=false&height="150"&count_private=false alt="stats graph" />
@@ -17,7 +17,7 @@
 
 ###
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
