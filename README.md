@@ -70,12 +70,6 @@
 ###
 
 <div align="left">
-  <a href="http://discordapp.com/users/839491819125342269" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="sanskriti1lal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="www.linkedin.com/in/sanskriti-lal-b17309248" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -84,6 +78,12 @@
   </a>
    <a href="https://leetcode.com/u/sanskritilal/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo"  />
+  </a>
+  <a href="sanskriti1lal@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="http://discordapp.com/users/839491819125342269" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
