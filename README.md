@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Full stack developer | GenAi enthusiast | GSSoC'24 contributor</h3>
+<h3 align="center">Software development engineer | GenAi enthusiast | GSSoC'24 contributor</h3>
 <br></br>
 
 ## 📊 GitHub Stats:
